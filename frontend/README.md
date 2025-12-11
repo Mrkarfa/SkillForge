@@ -426,7 +426,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### ⭐ Star this repo if you find it helpful!
 
-Made with ❤️ by the Karfa
+Made with ❤️ by the Mrkarfa
 
 [⬆ Back to Top](#-skillforge-lms)
 
